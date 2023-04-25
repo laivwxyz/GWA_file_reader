@@ -6,9 +6,12 @@
 # The program will outputs the name of the student who got the highest GWA (including the GWA).
 
 def highest_gwa():
-# create file named students_info.txt for reading
+# create file named student_info.txt for reading
     with open('student_info.txt', 'r') as student_info:
         # initialize variables
+        highest_gwa = 0
+        highest_gwa_student = ''
+
         # read students_info.txt each line
             # split the line into the student's name and their GWA
             # convert the GWA to a float
