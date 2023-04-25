@@ -13,6 +13,7 @@ def highest_gwa():
         highest_gwa_student = ''
 
         # read students_info.txt each line
+        for line in student_info:
             # split the line into the student's name and their GWA
             # convert the GWA to a float
             # check the students who have a highest GWA
