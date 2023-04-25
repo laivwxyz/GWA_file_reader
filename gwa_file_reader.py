@@ -1,4 +1,4 @@
-# Dela Cruz, Lailanie E. _ BSCPE 1-4
+# Dela Cruz, Lailanie E. _ BSCpE 1-4
 # Assignment 4
 # Programming Exercises 2
 
