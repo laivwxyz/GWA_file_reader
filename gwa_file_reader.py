@@ -26,6 +26,6 @@ def highest_gwa():
                 highest_gwa_student = name
 
         # print out the name of the student with the highest GWA
-        print(f'The student with the highest GWA is {highest_gwa_student} with a GWA of {highest_gwa}.')
+        print('\033[41m' + f'== The student with the highest GWA is {highest_gwa_student} with a GWA of {highest_gwa}.==')
 
 highest_gwa()
