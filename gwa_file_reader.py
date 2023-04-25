@@ -18,6 +18,8 @@ def highest_gwa():
             name, gwa = line.strip().split(',')
 
             # convert the GWA to a float
+            gwa = float(gwa)
+
             # check the students who have a highest GWA
         # print out the name of the student with the highest GWA
 
