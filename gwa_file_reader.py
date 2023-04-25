@@ -21,6 +21,10 @@ def highest_gwa():
             gwa = float(gwa)
 
             # check the students who have a highest GWA
+            if gwa > highest_gwa:
+                highest_gwa = gwa
+                highest_gwa_student = name
+
         # print out the name of the student with the highest GWA
 
 highest_gwa()
