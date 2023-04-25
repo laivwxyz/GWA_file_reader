@@ -31,11 +31,9 @@ Assume that the `student_info.txt` file contains the following:
 
 When you run the script, it will output the following:
 
+![Screenshot (166)](https://user-images.githubusercontent.com/129714181/234195785-d825216c-9d55-42a5-ac7f-e363972d69e6.png)
 
+## Contibute
 
-
-
-
-
-
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) first.
 
